@@ -1,6 +1,5 @@
 import React from "react";
 import AppNav from "../components/AppNav";
-import styles from "../components/AppNav.module.css";
 
 const AppLayout = () => {
   return (

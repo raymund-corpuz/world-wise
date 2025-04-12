@@ -59,6 +59,66 @@
         "lat": "39.07705059260835",
         "lng": "-3.5396068214482934"
       }
+    },
+    {
+      "id": "993c",
+      "cityName": "Castrogeriz",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:04:38.113Z",
+      "notes": "",
+      "position": {
+        "lat": "42.26198893420696",
+        "lng": "-4.130859375000001"
+      }
+    },
+    {
+      "id": "c1df",
+      "cityName": "Constantina",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:27:54.519Z",
+      "notes": "",
+      "position": {
+        "lat": "37.83499433154139",
+        "lng": "-5.646972656250001"
+      }
+    },
+    {
+      "id": "b2ef",
+      "cityName": "Tosos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:28:53.431Z",
+      "notes": "",
+      "position": {
+        "lat": "41.3085282122458",
+        "lng": "-1.1206054687500002"
+      }
+    },
+    {
+      "id": "11cd",
+      "cityName": "Serradilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:32:05.149Z",
+      "notes": "",
+      "position": {
+        "lat": "39.70358140488096",
+        "lng": "-6.064453125000001"
+      }
+    },
+    {
+      "id": "cf9d",
+      "cityName": "Navalperal de Pinares",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:45:41.932Z",
+      "notes": "",
+      "position": {
+        "lat": "40.594395637313305",
+        "lng": "-4.460449218750001"
+      }
     }
   ]
 }

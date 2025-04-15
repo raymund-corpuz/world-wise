@@ -119,6 +119,78 @@
         "lat": "40.594395637313305",
         "lng": "-4.460449218750001"
       }
+    },
+    {
+      "id": "70a9",
+      "cityName": "Villacastin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:51:51.422Z",
+      "notes": "",
+      "position": {
+        "lat": "40.76116206593763",
+        "lng": "-4.372558593750001"
+      }
+    },
+    {
+      "id": "d7fe",
+      "cityName": "Portaje",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:51:57.069Z",
+      "notes": "test\n",
+      "position": {
+        "lat": "39.85507523334171",
+        "lng": "-6.5478515625"
+      }
+    },
+    {
+      "id": "9937",
+      "cityName": "Andujar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:52:35.628Z",
+      "notes": "",
+      "position": {
+        "lat": "38.19890531030808",
+        "lng": "-4.020996093750001"
+      }
+    },
+    {
+      "id": "a1a7",
+      "cityName": "Arenillas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T23:58:07.852Z",
+      "notes": "",
+      "position": {
+        "lat": "41.32504398358742",
+        "lng": "-2.83447265625"
+      }
+    },
+    {
+      "id": "c8c7",
+      "cityName": "Caceres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-13T00:01:49.140Z",
+      "notes": "",
+      "position": {
+        "lat": "39.48196190820139",
+        "lng": "-6.2622080817817825"
+      }
+    },
+    {
+      "id": "4b4c",
+      "cityName": "Miedes de Aragon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-15T13:00:13.693Z",
+      "notes": "",
+      "position": {
+        "lat": "41.263542491991544",
+        "lng": "-1.40625"
+      }
     }
   ]
 }
